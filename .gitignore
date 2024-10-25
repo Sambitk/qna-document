@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+.env
+
+# Node
+node_modules/
+
+# Terraform
+*.tfstate
+.terraform/
+
+# Docker
+*.dockerfile
+
+# Miscellaneous
+.vscode/
+.idea/
